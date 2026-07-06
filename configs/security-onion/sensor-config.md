@@ -118,4 +118,4 @@ graph TD
 
 ---
 
-*[← Back to README](https://github.com/chad-hackerman/homelab/edit/main/)*
+*[← Back to README](https://github.com/chad-hackerman/homelab)*
