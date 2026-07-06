@@ -166,4 +166,4 @@ When restoring to the vulnerable snapshot, these weaknesses are present for atta
 
 ---
 
-*[← Back to README](https://github.com/chad-hackerman/homelab/edit/main/)*
+*[← Back to README](https://github.com/chad-hackerman/homelab)*
