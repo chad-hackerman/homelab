@@ -116,4 +116,4 @@ Key settings from `config.xml` (sensitive values redacted):
 
 ---
 
-*[← Back to README](../README.md)*
+*[← Back to README](https://github.com/chad-hackerman/homelab/blob/main/README.md)*
